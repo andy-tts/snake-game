@@ -1,5 +1,5 @@
 class Ninja
   def chop
-    puts "HiYaaaa"
+    puts "HiYaaaa!!!!!"
   end
 end
